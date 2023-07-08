@@ -69,17 +69,21 @@ nav {
 
 header {
   background-color: #fff8f3;
-  height: 837px;
+  background-image: url("../images/developer.png");
+  background-repeat: no-repeat;
+  background-position: top left;
+  padding-top: 38px;
 }
 
 .intro {
-  padding: 47px 38px 0px 230px;
+  padding: 0px 38px;
+  padding-bottom: 0px;
+  padding-left: 230px;
   justify-content: space-between;
   align-items: center;
   background-image: url("../images/header_bg.png");
   background-repeat: no-repeat;
   background-position: right bottom;
-  /* background-size: 30px; */
 }
 
 .profilepic {
