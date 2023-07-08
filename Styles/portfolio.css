@@ -290,4 +290,6 @@ textarea::placeholder {
 
 textarea {
   margin-bottom: 24px;
+  border: none;
+  border-radius: 5px;
 }
